@@ -1,0 +1,1288 @@
+Mobile section
+
+*
+{
+list-style: none;
+text-decoration: none;
+
+}
+
+/* HOME SECTION  */
+span
+{
+    font-size: 1.7rem;
+    font-family: 'Bellefair', serif;
+    
+}
+
+.home-explore
+{
+    position: absolute;
+    text-transform: uppercase;
+    width: 15%;
+    height: 30%;
+    border-radius: 100%;
+    right: 14%;
+    bottom: 16%;
+    
+}
+
+.home-text
+{
+    font-size:1.6rem;
+    font-family: 'Bellefair', serif;
+    text-transform: uppercase;
+}
+.hr-link-home
+{
+    position: absolute;
+    width: 5%;
+    height: 1%;
+    right: 47%;
+    top:100px;   
+}
+.home-bg-color
+{
+   background-color:#253b5b;
+}
+.home-p
+{
+   position: absolute;
+   top: 93%; 
+}
+.home-name
+{
+   font-size: 7rem;
+   padding-top: 17px;
+   padding-bottom: 0px;
+   font-family: 'Bellefair', serif;
+   color: #e3e3e9;
+   text-transform: uppercase;
+   letter-spacing:18px;
+   
+}
+
+.home-section
+{
+    position: absolute;
+    color: #a0a5b7;
+    left: 11.50%;
+    top: 42%;
+    width: 30%;
+}
+
+/* DESTINATION SECTION  */
+
+.destination-bg-color
+{
+    background-color: #212837;
+}
+
+.destination-img
+{
+    position: absolute;
+    width: 25%;
+    bottom: 13%;
+    left: 17%;
+
+}
+
+.destination-link
+{
+    position:relative;
+    text-decoration: none;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    text-transform: uppercase;
+    color: #a0a5b7;
+    margin: 0 10px;
+    top:-30px;
+    right:7px;
+    
+    
+    
+        
+}
+
+.destination-link:hover
+{
+  color:#e3e3e9;
+  
+}
+
+
+.destinatio-section
+{
+    position: absolute;
+    color: #a0a5b7;
+    right: 7%;
+    top: 36%;
+    width: 35%;
+    
+}
+
+.destination-name
+{
+   font-size: 4rem;
+   padding-top: 5px;
+   padding-bottom: 10px;
+   font-family: 'Bellefair', serif;
+   color: #e3e3e9;
+   text-transform: uppercase;
+   
+}
+
+.destination-hr
+{
+    position: absolute;
+    top: 485px;
+    left: 58%;
+    color: #fff;
+    border-style: solid;
+    border-top-style: solid;
+    border-width: 100%;
+    width: 35%;
+}
+
+.row
+{
+    position: absolute;
+    color: #a0a5b7;
+    text-transform: uppercase;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 0.87rem;
+    right: 15%;
+    bottom: 5%;
+    
+    
+}
+
+.row-1
+{
+    position: absolute;
+    right: 2%;
+}
+
+.time
+{
+    position: relative;
+    right: 14.75%;
+    top: 575px;
+}
+
+.titan-time
+{
+    right: 16%;
+}
+
+.time-moon
+{
+    right: 15.95%;
+}
+
+.mars-row
+{
+    right: 15%;
+}
+
+.mars-row-1
+{
+ right: -1%;
+}
+.col-lg-4
+{
+    width: 100%;
+    
+}
+
+
+.destination-time
+{
+    font-family: 'Bellefair', serif;
+    color: #e3e3e9;
+    font-size: 1.9rem;
+    margin-top:10px;
+   
+}
+.hr-link-destination
+{
+    position: absolute;
+    width: 8%;
+    height: 1%;
+    right: 34%;
+    top:100px; 
+}
+
+/* CREW SECTION */
+
+.crew-background-img
+{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
+hr
+{
+    position: absolute;
+    top: 50px;
+    left: 10%;
+    color: #fff;
+    border-style: solid;
+    border-top-style: solid;
+    border-width: 100%;
+    width: 32%;
+    
+}
+
+.navbar
+{
+
+    padding:20px;
+    position: absolute;
+    left: 40%;
+    top: 4%;
+    width: 60%;
+    
+}
+
+.nav-link
+{
+    font-family: 'Barlow Semi Condensed', sans-serif; 
+    position: relative;
+    right: 90px;
+    margin:0 30px;
+    word-spacing: 5px;
+    
+    
+    
+}
+
+.bg-color
+{
+   background-color:#323640;
+}
+
+strong
+{
+    color:#e3e3e9;
+}
+
+.commander-section
+{
+    position: absolute;
+    color: #a0a5b7;
+    left: 10%;
+    top: 45%;
+    width: 35%;
+}
+
+
+.commader-text
+{
+    font-size:1.6rem;
+    font-family: 'Bellefair', serif;
+    text-transform: uppercase;
+}
+
+.crew-name
+{
+   font-size: 2.8rem;
+   padding-top: 5px;
+   padding-bottom: 10px;
+   font-family: 'Bellefair', serif;
+   color: #e3e3e9;
+   text-transform: uppercase;
+   
+}
+
+.crew-mark
+{
+    font-size:2.4rem;
+}
+
+.crew-title
+{
+    font-size: 1.7rem;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    text-transform: uppercase;
+    
+}
+
+.hr-link-crew
+{
+    position: absolute;
+    width: 5%;
+    height: 1%;
+    right: 24%;
+    top:100px; 
+}
+
+
+.crew-title
+{
+    position: absolute;
+    color: #fff;
+    left: 10%;
+    top: 20%;
+    word-spacing: 7px;
+    color: #bfbec5;
+}
+
+.crew-png
+{
+    width: 27%;
+    position: absolute;
+    right: 15%;
+    bottom: 0;
+
+}
+
+.crew-img
+{
+    width: 21%;
+    position: absolute;
+    right: 15%;
+    bottom: 0;  
+}
+
+.logo-png
+{
+    position: absolute;
+    color: #fff;
+    border-radius: 100%;
+    top: 40px;
+    left: 3%;
+    
+    
+}
+
+
+.dot
+{
+    position: absolute;
+    left: 10%;
+    bottom: 10%;
+    
+}
+
+.icon
+{
+    margin-left: 20px;
+}
+
+.fa-solid
+{
+    color:#323640;
+}
+
+.fa-solid:hover
+{
+color: #fff;
+}
+
+/* TECHNOLOGY SECTION */
+
+.technology-img
+{
+position: absolute;
+height: 100%;
+width: 100%;
+}
+
+.technology-section
+{
+    position: absolute;
+    color: #a0a5b7;
+    left: 20%;
+    top: 42%;
+    
+}
+
+.technology-name
+{
+font-size: 2.8rem;
+font-family: 'Bellefair', serif;
+color: #e3e3e9;
+}
+
+.technology-text
+{
+width: 35%;
+
+}
+
+.launch-img
+{
+    position: absolute;
+    right: 0;
+    top: 31%;
+    width: 27%;
+}
+
+.img-link
+{
+    position: absolute;
+    top: 42%;
+    left: 10%;
+    
+}
+
+.bg-color-link
+{
+   background-color:#131323;
+   
+}
+
+.btn
+{
+    width: 160%;
+    height: 70px;
+    border-radius: 100%;
+    font-family: 'Bellefair', serif;
+    font-size: 1.5rem;
+       
+}
+
+b
+{
+    color:#323640;
+    
+}
+
+.hr-link
+{
+    position: absolute;
+    width: 9%;
+    height: 1%;
+    right: 10%;
+    top:100px;
+}
+
+/* SEACEPORT-SECTION */
+
+.spaceport-text
+{
+   margin-top: 20px; 
+}
+
+@media (max-width:1400px){
+
+.technology-tablet
+{
+    width:0%;
+}
+.technology-mobile
+{
+ width: 0%;
+}
+
+@media (max-width:1400px) and (min-width:770px)
+{
+    .launch-vehicle-landscape
+    {
+        width:0%;
+    }
+
+    .crew-specialist
+    {
+        
+        display: none;
+    }
+
+    .crew-pilot
+    {
+        
+        display: none;
+    }
+
+    .crew-engineer
+    {
+        
+        display: none;
+    }
+
+    .crew-member
+    {
+        
+        display: none;
+    }
+}
+
+
+
+
+
+@media (max-width:1400px) and (min-width:393px){
+
+    nav 
+    {
+       visibility: hidden;
+       
+    }
+
+    
+    
+}
+
+@media (max-width:1300px) and (min-width:767px){
+    .hr-link-destination
+    {
+        visibility: hidden;
+    }
+    .hr-link-home
+    {
+        visibility: hidden;
+    }
+    .hr-link-crew
+    {
+        visibility: hidden;
+    }
+    .hr-link
+    {
+        visibility: hidden;
+    }
+}
+
+
+@media (max-width:768px) and (min-width:394px){
+
+    strong
+    {
+        visibility: hidden;
+    }
+    .hr-link-destination
+    {
+        visibility: hidden;
+    }
+    .hr-link-home
+    {
+        visibility: hidden;
+    }
+    .hr-link-crew
+    {
+        visibility: hidden;
+    }
+    .hr-link
+    {
+        visibility: hidden;
+    }
+
+    
+
+}
+
+@media (max-width:768px){
+
+    /* DESTINATION SECTION  */
+
+    
+    .hr-link-destination
+    {
+        
+            position: absolute;
+            width: 11%;
+            height: 1%;
+            right: 32%;
+            top:90px; 
+        
+    }
+    .destination-img
+    {
+        width: 40%;
+        left: 30%;
+        top: 220px;
+    }
+    .destinatio-section
+    {
+    position: absolute;
+    color: #a0a5b7;
+    right: 11%;
+    top: 95%;
+    width: 79%;
+    text-align: center;
+    }
+
+    .destination-hr
+    {
+        position: absolute;
+        top: 860px;
+        left: 12%;
+        color: #fff;
+        border-style: solid;
+        border-top-style: solid;
+        border-width: 100%;
+        width: 77%;  
+        
+       
+    }
+
+    .time
+   {
+    position: relative;
+    right: 39%;
+    top:945px;
+    
+    
+    }
+
+    .destination-time
+    {
+    font-family: 'Bellefair', serif;
+    color: #e3e3e9;
+    font-size: 1.5rem;
+    margin-top:10px;
+    
+    
+   
+    }
+
+    .col-lg-4
+    {
+        text-align: center;
+        
+    }
+
+    .row
+{
+    position: absolute;
+    color: #a0a5b7;
+    text-transform: uppercase;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 0.87rem;
+    right: 15%;
+    bottom: 5%;
+    
+    
+}
+
+.row-1
+{
+    position: absolute;
+    right: -6%;
+}
+
+    .home-explore
+    {
+    position: absolute;
+    text-transform: uppercase;
+    width: 30%;
+    height: 35%;
+    right: 35%;
+    top: 110%;
+   
+    }
+   .home-p
+   {
+       position: absolute;
+       top: 105%;
+   }
+   .home-name
+   {
+   font-size: 8.4rem;
+   padding-top: 17px;
+   padding-bottom: 0px;
+   font-family: 'Bellefair', serif;
+   color: #e3e3e9;
+   text-transform: uppercase;
+   letter-spacing:18px;
+   
+   }
+    .home-text
+    {
+        font-size:1.2rem;
+        font-family: 'Bellefair', serif;
+        text-transform: uppercase;  
+    }
+    .home-section
+    {
+    position: absolute;
+    color: #a0a5b7;
+    left: 20.50%;
+    top: 31%;
+    width: 61%;
+    text-align: center;
+    }
+    
+    .hr-link-home
+    {
+    position: absolute;
+    width: 6%;
+    height: 1%;
+    right: 47%;
+    top:90px;   
+    }
+    .hr-link
+    {
+        position: absolute;
+        width: 12%;
+        height: 1%;
+        right: 5%;
+        top:90px;
+    }
+    
+    .crew-specialist
+    {
+        position: absolute;
+        width: 40%;
+        left: 25%;
+        top: 90%; 
+    }
+
+    .crew-pilot
+    {
+        position: absolute;
+        width: 52%;
+        left: 25%;
+        top: 87.27%;
+    }
+
+    .crew-engineer
+    {
+        position: absolute;
+        width: 52%;
+        left: 25%;
+        top: 95%;
+    }
+
+    .crew-member
+    {
+        position: absolute;
+        top: 79.50%;
+        width: 50%;
+        left: 25%;
+    }
+
+    .dot
+    {
+    position: absolute;
+    left: 40%;
+    top: 69%;
+    
+    }
+
+    .crew-png
+    {
+    margin: 0%;
+    padding: 0%;
+    width: 50%;
+    right: 35%;
+    bottom: 0;
+    top: 50%;
+    display: none;
+    }
+
+    .commander-section
+    {
+    position: absolute;
+    color: #a0a5b7;
+    left: 15%;
+    top: 31%;
+    width: 69%;
+    text-align: center;
+    
+    }
+    .hr-link-crew
+    {
+        width: 6%;
+        height: 1%;
+        right: 22%;
+        top:90px;  
+    }
+
+    .technology-img
+    {
+        visibility: hidden;
+    }
+
+    .technology-tablet
+    {
+        position: absolute;
+        width:768px;
+        
+    }
+    hr
+    {
+       width: 0%;
+    }
+
+    .navbar
+    {
+      
+       top:0px;
+       
+       
+    }
+
+    
+    .nav-link
+    {
+        position: relative;
+        right:15px;
+        margin:5px 0px;
+        font-size: 1rem;   
+    }
+
+    
+    .logo-png
+    {
+        top: 4%;
+        left: 4%;
+    }
+    
+    .launch-img
+    {
+        visibility: hidden;
+    }
+
+    .crew-title
+    {
+        font-size: 1.5rem;
+        left: 4%;
+        top: 20%;
+    }
+
+    .launch-vehicle-landscape
+    {
+        position: absolute;
+        top: 31%;
+    }
+
+    .technology-section
+    {
+        
+        top: 109%; 
+        text-align: center;
+        left: 0;
+        
+        
+    }
+
+    .technology-name
+
+    {
+     font-size: 2.8rem;
+     font-family: 'Bellefair', serif;
+     color: #e3e3e9;
+    }
+
+    .technology-text
+    {
+
+    width: 65%;
+    margin: auto;
+    }
+
+    .img-link
+{
+    position: absolute;
+    top: 92%;
+    left: 35%;
+            
+}
+
+.btn
+{
+    width: 155%;
+    height: 60px;
+    border-radius: 100%;
+    font-family: 'Bellefair', serif;
+    font-size: 1.4rem;
+       
+}
+
+.button-2
+{
+    position: absolute;
+    top: 0%;
+    left:80px;
+
+
+}
+
+.button-3
+{
+    position: absolute;
+    top: 0;
+    left: 160px;
+}
+
+@media (max-width:392px){
+
+    .destination-time
+    {
+        font-size: 1.45rem;
+    }
+#destination-id
+{
+    position:relative;
+    right: 15px;
+    top: 90px;
+}
+    .destination-img
+    {
+        top: 25%;
+    }
+    .row
+{
+    position: absolute;
+    color: #a0a5b7;
+    text-transform: uppercase;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 0.87rem;
+    right: 15%;
+    bottom: 5%;
+    
+    
+}
+
+
+
+.row-1
+{
+    position:absolute;
+    top:20px;
+    left:53%;
+    
+
+}
+    .time
+    {
+     position: relative;
+     right: 22%;
+     top:770px;
+    } 
+
+    .destination-hr
+    {
+        position: absolute;
+        top: 650px;
+        left: 5%;
+        color: #fff;
+        border-style: solid;
+        border-top-style: solid;
+        border-width: 100%;
+        width: 90%;  
+        
+       
+    }
+    .destinatio-section
+    {
+    position: absolute;
+    color: #a0a5b7;
+    right: 7%;
+    top: 60%;
+    width: 87%;
+    
+    }
+    
+    
+    .hr-link-destination
+    {
+        visibility: hidden;
+    }
+    span
+    {
+    font-size: 1.7rem;
+    font-family: 'Bellefair', serif;
+    
+    }
+    .home-explore
+    {
+    position: absolute;
+    text-transform: uppercase;
+    width: 45%;
+    height: 26%;
+    right: 26%;
+    top: 75%;
+   
+    }
+    .hr-link-home
+    {
+        visibility: hidden;
+    }
+    .home-p
+    {
+        position: absolute;
+        top: 111%;
+    }
+    
+    .home-text
+    {
+      font-size: 1.2rem;  
+       padding-bottom: 4%; 
+    }
+    .home-name
+   {
+   font-size: 5rem;
+   padding-top: 0px;
+   padding-bottom: 0px;
+   font-family: 'Bellefair', serif;
+   color: #e3e3e9;
+   text-transform: uppercase;
+   letter-spacing:18px;
+   
+   }
+    .home-section
+    {
+    position: absolute;
+    color: #a0a5b7;
+    left: 3%;
+    top: 18%;
+    width: 95%;
+    text-align: center;
+    }
+    .hr-link
+    {
+        visibility: hidden;
+    }
+    .dot
+    {
+    position: absolute;
+    left: 31%;
+    top: 71%;
+    }
+
+    .crew-specialist
+    {
+        position: absolute;
+        top:30%;
+        width: 43%;
+        left: 28%;
+    }
+
+    .crew-pilot
+    {
+        position: absolute;
+        top:33%;
+        width: 50%;
+        left: 25%;
+    }
+
+    .crew-engineer
+    {
+        position: absolute;
+        top:36%;
+        width: 52%;
+        left: 23%;
+    }
+    .crew-member
+    {
+        position: absolute;
+        top:28%;
+        width: 50%;
+        left: 30%;
+    }
+    .commander-section
+    {
+        width: 90%;
+        left: 5%;
+        color: #a0a5b7;
+        top: 76.50%;
+        
+    }
+    .commader-text
+    {
+        font-size: 1.8rem;
+    }
+    .crew-name
+    {
+      font-size: 1.8rem;
+    }
+    .hr-link-crew
+    {
+        display: none;
+    }
+nav
+{
+    position: absolute;
+    top: 0px;
+    background-color:#131323;
+    width:70%;
+    margin-left:30%;
+        
+}
+    
+
+nav ul
+{
+    float:right;
+    margin-right: 20px;
+    margin-top: 20px;
+    
+    
+    
+    
+}
+
+nav ul li 
+{
+    display:inline-block;
+    word-spacing: 5px;
+    
+    
+}
+
+nav ul li a
+{
+    color:white;
+        
+}
+
+a.nav-link,a.hover
+{
+    color: #bfbec5;
+    left: 5px;
+    transition:.5s;
+}
+
+.checkbtn
+{
+    color: white;
+    float: right;
+    margin-right:40px;
+    font-size: 40px;
+    cursor: pointer;
+    display: none;
+}
+
+#check
+{
+    display: none;
+}
+
+.technology-tablet
+{
+ visibility: hidden;
+ width: 0%;
+}
+
+.technology-mobile
+{
+    position: absolute;
+    width:392px;
+}
+
+.launch-vehicle-landscape
+    {
+        
+        width: 392px;
+        top: 23%;
+    }
+   
+    .img-link
+    {
+        top:53%;
+        left: 25%;
+    }
+    .btn
+    {
+      width: 55px;
+      height: 50px;
+    }
+
+    .button-2
+    {
+        left: 70px;
+    }
+
+    .button-3
+    {
+        left: 140px;
+    }
+
+    .technology-section
+    {
+        text-align: center;
+        top: 66%;
+        left: 1%;
+    }
+
+    .technology-name
+    {
+        font-size: 1.6rem;
+    }
+
+    .technology-text
+    {
+        
+        width:87%;
+        
+            
+    }
+
+    .crew-title
+    {
+       font-size: 1.2rem;
+       top: 15%;
+       left: 24%;
+       
+    }
+
+    .navbar
+    {
+       display: none;
+       
+    }
+
+    nav
+    {
+        
+        height: 0px;
+        
+    }
+    
+    nav ul li a 
+    {
+        font-size: 14px;
+        font-family: 'Barlow Semi Condensed', sans-serif;
+        color: #bfbec5;
+        
+    }
+
+    .checkbtn
+    {
+        display: block;
+        margin-left: 80%;
+        margin-top: 10px;
+    }
+
+    ul 
+    {
+        position:fixed;
+        width: 100%;
+        height: 100vh;
+        background:#131323;
+        /* background:  #212837; */
+        /* background:#253b5b; */
+        /* background:#323640; */
+        top: 60px;
+        left:-100%;
+        transition: .5s;
+
+    }
+
+    #check:checked ~ ul 
+    {
+        left: 0;
+    }
+    nav ul li
+    {
+     display: block;
+     margin-top:10px;
+     margin-left: 30%;
+     
+    }
+
+    nav ul li a 
+    {
+        font-size:1.2rem;
+    }
+
+    
+    
+    
+}
+
+}
+
+}

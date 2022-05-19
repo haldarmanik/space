@@ -1,0 +1,138 @@
+body
+{
+    text-align: center;
+    width: 768px;
+    height: 1024px;
+    
+}
+
+.technology-tablet
+{
+    position: absolute;
+    right: 21%;
+    
+        
+} 
+
+.navbar
+{
+    position: absolute;
+    width:35%;
+    left:44%;
+    padding: 20px;
+    
+    
+    
+    
+}
+
+.bg-color-link
+{
+   background-color:#131323;
+   
+}
+
+.logo-png
+{
+    position: absolute;
+    background-color: #fff;
+    border-radius: 100%;
+    top: 14px;
+    left:25%;
+    
+}
+
+.crew-title
+{
+    font-size: 1.5rem;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    position: absolute;
+    left: 26%;
+    top: 20%;
+    word-spacing: 7px;
+    color: #bfbec5;
+}
+
+b
+{
+    color:#323640;
+    
+}
+
+.launch-vehicle-landscape
+{
+    position: absolute;
+    top: 35%;
+    right: 21%;
+    
+    
+}
+
+
+.technology-section
+{
+    position: absolute;
+    color: #a0a5b7;
+    top: 106%;
+    
+    
+    
+}
+
+.technology-name
+{
+font-size: 2.8rem;
+font-family: 'Bellefair', serif;
+color: #e3e3e9;
+}
+
+.technology-text
+{
+width: 35%;
+margin: auto;
+
+}
+
+.launch-img
+{
+    position: absolute;
+    right: 0;
+    top: 31%;
+    width: 27%;
+}
+.img-link
+{
+    position: absolute;
+    top: 92%;
+    right: 54%;
+    
+    
+        
+}
+
+.btn
+{
+    width: 155%;
+    height: 60px;
+    border-radius: 100%;
+    font-family: 'Bellefair', serif;
+    font-size: 1.4rem;
+       
+}
+
+.button-2
+{
+    position: absolute;
+    top: 0%;
+    left:80px;
+
+
+}
+
+.button-3
+{
+    position: absolute;
+    top: 0;
+    left: 160px;
+}
+
