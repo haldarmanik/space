@@ -791,7 +791,7 @@ b
 
     .technology-img
     {
-        visibility: hidden;
+      width:768px;  
     }
 
     .technology-tablet
@@ -1278,7 +1278,10 @@ a.nav-link,a.hover
         font-size:1.2rem;
     }
 
-    
+    .technology-img
+    {
+      width:392px;  
+    }
     
     
 }
