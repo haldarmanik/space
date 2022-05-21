@@ -519,12 +519,10 @@ b
        visibility: hidden;
        
     }
-
-    
-    
 }
 
-@media (max-width:1300px) and (min-width:767px){
+    
+@media (max-width:1300px) and (min-width:769px){
     .hr-link-destination
     {
         visibility: hidden;
@@ -550,25 +548,7 @@ b
     {
         visibility: hidden;
     }
-    .hr-link-destination
-    {
-        visibility: hidden;
-    }
-    .hr-link-home
-    {
-        visibility: hidden;
-    }
-    .hr-link-crew
-    {
-        visibility: hidden;
-    }
-    .hr-link
-    {
-        visibility: hidden;
-    }
-
-    
-
+   
 }
 
 @media (max-width:768px){
