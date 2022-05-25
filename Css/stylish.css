@@ -562,6 +562,11 @@ b
 
     /* DESTINATION SECTION  */
 
+    .nav-link:hover
+    {
+    text-decoration:underline white 3px;
+    text-underline-offset:2rem;   
+    }
     
     .hr-link-destination
     {
@@ -895,6 +900,12 @@ b
 
 @media (max-width:392px){
 
+    .nav-link:hover
+    {
+        text-decoration: none;
+        color:#e3e3e9;
+    }
+    
     .destination-time
     {
         font-size: 1.45rem;
