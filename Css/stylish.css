@@ -102,16 +102,14 @@ span
     color: #a0a5b7;
     margin: 0 10px;
     top:-30px;
-    right:7px;
-    
-    
-    
-        
+    right:7px;        
 }
 
 .destination-link:hover
 {
   color:#e3e3e9;
+  text-decoration:underline white 3px;
+  text-underline-offset:0.50rem;
   
 }
 
