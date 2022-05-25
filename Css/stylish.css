@@ -27,20 +27,26 @@ span
     
 }
 
+.nav-link:hover
+{
+    text-decoration:underline white 3px;
+    text-underline-offset:1.8rem;   
+}
+
 .home-text
 {
     font-size:1.6rem;
     font-family: 'Bellefair', serif;
     text-transform: uppercase;
 }
-.hr-link-home
+/* .hr-link-home
 {
     position: absolute;
     width: 5%;
     height: 1%;
     right: 47%;
     top:100px;   
-}
+} */
 .home-bg-color
 {
    background-color:#253b5b;
