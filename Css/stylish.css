@@ -10,12 +10,28 @@ text-decoration: none;
 /* HOME SECTION  */
 span
 {
-    font-size: 1.7rem;
+    position: absolute;
+    text-transform: uppercase;
+    font-size: 1.8rem;
     font-family: 'Bellefair', serif;
+    right: 17%;
+    bottom: 27.50%;
+}
+    
+
+
+.bi
+{
+    color: #fff;
+    position: absolute;
+    font-size: 13rem;
+    right: 14%;
+    bottom: 9%;
     
 }
 
-.home-explore
+
+/* .home-explore
 {
     position: absolute;
     text-transform: uppercase;
@@ -26,7 +42,7 @@ span
     bottom: 16%;
     
 }
-
+ */
 .nav-link:hover
 {
     text-decoration:underline white 3px;
@@ -559,6 +575,19 @@ b
 @media (max-width:768px){
 
     /* DESTINATION SECTION  */
+    
+    span
+    {
+    right: 42%;
+    top: 125%;
+    }
+
+    .bi
+    {
+        font-size: 14rem;
+        right: 35.10%;
+        top: 100%;
+    }
 
     .nav-link:hover
     {
@@ -897,6 +926,20 @@ b
 }
 
 @media (max-width:392px){
+    
+    span
+    {
+    right: 35%;
+    top: 84.50%;
+    }
+
+    .bi
+    {
+        font-size: 10.50rem;
+        right: 27.25%;
+        top: 67%;
+    }
+    
 
     .nav-link:hover
     {
