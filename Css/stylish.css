@@ -31,7 +31,7 @@ span
 }
 
 
-/* .home-explore
+.home-explore
 {
     position: absolute;
     text-transform: uppercase;
@@ -42,7 +42,7 @@ span
     bottom: 16%;
     
 }
- */
+
 .nav-link:hover
 {
     text-decoration:underline white 3px;
