@@ -10,12 +10,12 @@ text-decoration: none;
 /* HOME SECTION  */
 span
 {
-    position: absolute;
+/*     position: absolute; */
     text-transform: uppercase;
     font-size: 1.8rem;
     font-family: 'Bellefair', serif;
-    right: 17%;
-    bottom: 27.50%;
+/*     right: 17%;
+    bottom: 27.50%; */
 }
     
 
@@ -35,11 +35,13 @@ span
 {
     position: absolute;
     text-transform: uppercase;
-    width: 15%;
-    height: 30%;
+    width: 15.10%;
+    height: 31.25%;
     border-radius: 100%;
-    right: 14%;
-    bottom: 16%;
+    right: 14.14%;
+    bottom: 15.70%;
+    border-color: transparent;
+    
     
 }
 
@@ -47,6 +49,12 @@ span
 {
     text-decoration:underline white 3px;
     text-underline-offset:1.8rem;   
+}
+
+.link-1
+{
+    text-decoration:underline white 3px;
+    text-underline-offset:1.8rem;
 }
 
 .home-text
@@ -593,6 +601,11 @@ b
     {
     text-decoration:underline white 3px;
     text-underline-offset:2rem;   
+    }
+    
+    .link-1
+    {
+        text-underline-offset:2rem;
     }
     
     .hr-link-destination
